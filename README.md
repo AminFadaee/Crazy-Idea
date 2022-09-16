@@ -1,6 +1,6 @@
 # Here's A Crazy Idea!
 ## Intro
-This is a simple project generating a random idea.
+This is a simple project for generating random ideas.
 If you want to work on a story,
 do some improve or are just plain curious about how different things can mix together,
 you are in the right place.
